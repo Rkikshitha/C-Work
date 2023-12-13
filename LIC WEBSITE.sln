@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LIC WEBSITE", "LIC WEBSITE\", "{D5E34AAF-99F2-4BBE-9F50-88D057685089}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53947"
+		Debug.AspNetCompiler.PhysicalPath = "LIC WEBSITE\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53947\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53947"
+		Release.AspNetCompiler.PhysicalPath = "LIC WEBSITE\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53947\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53947"
+		SlnRelativePath = "LIC WEBSITE\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5E34AAF-99F2-4BBE-9F50-88D057685089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E34AAF-99F2-4BBE-9F50-88D057685089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA045EA3-F3F0-476B-97C5-57936933344D}
+	EndGlobalSection
+EndGlobal
